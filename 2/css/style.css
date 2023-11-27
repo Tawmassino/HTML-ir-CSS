@@ -1,0 +1,55 @@
+h2{
+    color:blueviolet
+}
+
+p{
+    color: red;
+}
+
+.LTYellow{
+    width: 10em;
+    height: 1em;
+    background-color: #fffb00;
+}
+
+.LTGreen{
+    width: 10em;
+    height: 1em;
+    background-color: #2bc61d;
+}
+
+.LTRed{
+    width: 10em;
+    height: 1em;
+    background-color: #d41a1a;
+}
+
+.DEBlack{
+    width: 10em;
+    height: 1em;
+    background-color: #000000;
+}
+
+.DEYellow{
+    width: 10em;
+    height: 1em;
+    background-color: #fffb00;
+}
+
+.DERed{
+    width: 10em;
+    height: 1em;
+    background-color: #d41a1a;
+}
+
+.LVRed{
+    width: 10em;
+    height: 1em;
+    background-color: #d41a1a;
+}
+
+.LVWhite{
+    width: 10em;
+    height: 1em;
+    background-color: #ffffff;
+}
