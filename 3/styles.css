@@ -1,0 +1,57 @@
+.article-heading{
+    border-color: rgb(0, 0, 255);
+    border-width: 0.5em;
+    border-style: solid;
+}
+
+.para{
+    border-color: rgb(75, 75, 125);
+    border-width: 0.2em;
+    border-style:dotted;
+    padding: 10px;
+    
+}
+
+.figura{
+    background-color:aqua;
+    width: 10em;
+    height: 10em;
+    
+    border-style: solid;
+    border-width: 0.3em;
+    border-color: rgb(228, 90, 189);
+    border-radius: 300px;  
+     
+}
+
+.pic{
+    border-style:dashed;
+    border-width: 0.4em;
+    border-color: rgb(36, 22, 32);
+    border-radius: 300em;   
+}
+
+.figurele{
+    background-color:rgb(0, 255, 94);
+    width: 10em;
+    height: 10em;
+    
+    border-style: solid;
+    border-width: 0.3em;
+    border-color: rgb(228, 90, 136);    
+    margin: 20px;
+
+
+}
+
+.figurele2{
+    background-color:rgb(255, 0, 72);
+    width: 10em;
+    height: 10em;
+    
+    border-style: solid;
+    border-width: 0.3em;
+    border-color: rgb(210, 228, 90);    
+    padding: 20px;
+
+}
